@@ -22,4 +22,5 @@ I applied below libraries for developing such simple food order app, in which th
 - import React, { useState, useEffect } from 'react';
 - import { View, TextInput, Modal, Text, Image, StyleSheet, TouchableOpacity, Alert, KeyboardAvoidingView, Platform} from 'react-native';
 - import { Dimensions } from 'react-native';
-## 
+## Elementary Level of React Native
+
