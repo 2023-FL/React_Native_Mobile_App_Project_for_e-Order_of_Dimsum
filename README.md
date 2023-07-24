@@ -1,4 +1,4 @@
-# Sample Snack app
+# Example Snack Expo of React Native for Chinese Dimsum Order App
 
 Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
@@ -9,3 +9,15 @@ All projects created in Snack are publicly available, so you can easily share th
 If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
 
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+
+## This example is an elementary level of React Native, which is applied to develop Chinese Dimsum Order App with the application of following libraties:
+import React, { useState, useEffect } from 'react';
+import { Appbar } from 'react-native-paper';
+import { NavigationContainer, useNavigation } from '@react-navigation/native';
+import { createStackNavigator } from '@react-navigation/stack';
+import { View, TextInput, Button, Modal, Text, Image, StyleSheet, TouchableOpacity, Alert, KeyboardAvoidingView} from 'react-native';
+import Icon from 'react-native-vector-icons/FontAwesome';
+import AsyncStorage from '@react-native-async-storage/async-storage';
+import React, { useState, useEffect } from 'react';
+import { View, TextInput, Modal, Text, Image, StyleSheet, TouchableOpacity, Alert, KeyboardAvoidingView, Platform} from 'react-native';
+import { Dimensions } from 'react-native';
