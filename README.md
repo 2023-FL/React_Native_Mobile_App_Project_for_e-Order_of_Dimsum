@@ -11,13 +11,13 @@ If you're having problems, you can tweet to us [@expo](https://twitter.com/expo)
 Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
 
 ## This example is an elementary level of React Native, which is applied to develop Chinese Dimsum Order App with the application of following libraties:
--import React, { useState, useEffect } from 'react';
--import { Appbar } from 'react-native-paper';
--import { NavigationContainer, useNavigation } from '@react-navigation/native';
--import { createStackNavigator } from '@react-navigation/stack';
--import { View, TextInput, Button, Modal, Text, Image, StyleSheet, TouchableOpacity, Alert, KeyboardAvoidingView} from 'react-native';
--import Icon from 'react-native-vector-icons/FontAwesome';
--import AsyncStorage from '@react-native-async-storage/async-storage';
--import React, { useState, useEffect } from 'react';
--import { View, TextInput, Modal, Text, Image, StyleSheet, TouchableOpacity, Alert, KeyboardAvoidingView, Platform} from 'react-native';
--import { Dimensions } from 'react-native';
+- import React, { useState, useEffect } from 'react';
+- import { Appbar } from 'react-native-paper';
+- import { NavigationContainer, useNavigation } from '@react-navigation/native';
+- import { createStackNavigator } from '@react-navigation/stack';
+- import { View, TextInput, Button, Modal, Text, Image, StyleSheet, TouchableOpacity, Alert, KeyboardAvoidingView} from 'react-native';
+- import Icon from 'react-native-vector-icons/FontAwesome';
+- import AsyncStorage from '@react-native-async-storage/async-storage';
+- import React, { useState, useEffect } from 'react';
+- import { View, TextInput, Modal, Text, Image, StyleSheet, TouchableOpacity, Alert, KeyboardAvoidingView, Platform} from 'react-native';
+- import { Dimensions } from 'react-native';
