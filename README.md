@@ -23,4 +23,7 @@ I applied below libraries for developing such simple food order app, in which th
 - import { View, TextInput, Modal, Text, Image, StyleSheet, TouchableOpacity, Alert, KeyboardAvoidingView, Platform} from 'react-native';
 - import { Dimensions } from 'react-native';
 ## Elementary Level of React Native
+I have tried to apply 
 
+[Youtube 1] (https://www.youtube.com/watch?v=GwM_7qCpFvY)
+[Youtube 2] (https://www.youtube.com/watch?v=2u-GNTe6XOY)
