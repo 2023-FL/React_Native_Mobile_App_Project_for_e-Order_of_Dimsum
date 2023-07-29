@@ -24,7 +24,6 @@ I applied below libraries for developing such simple food order app, in which th
 - import { Dimensions } from 'react-native';
 ## Elementary Level of React Native
 I have tried to apply 
-https://snack.expo.dev/@francis2023/dimsum
 
 ![image](https://github.com/2023-FL/React_Native_Mobile_App_Project_for_e-Order_of_Dimsum/assets/57984642/89affcd5-3074-4d2a-9158-027c74fd33c8)
 
